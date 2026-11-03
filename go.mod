@@ -1,4 +1,4 @@
-module github.com/94peter/gin-session
+module github.com/muulinCorp/gin-session
 
 go 1.21.7
 
